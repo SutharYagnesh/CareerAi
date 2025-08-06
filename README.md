@@ -2,8 +2,6 @@
 
 Build a powerful AI-driven Career Coach platform using **Next.js**, **Neon Database**, **Tailwind CSS**, **Prisma**, **Inngest**, and **Shadcn UI**. This project integrates **Clerk Authentication** and **Gemini API** to deliver personalized career guidance.
 
-## 🔗 Tutorial Video
-[![Watch Tutorial](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)](https://youtu.be/UbXpRv5ApKA)
 
 ## 🚀 Tech Stack
 - Next.js 14 (App Router)
