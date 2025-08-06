@@ -1,11 +1,23 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+# 🧑‍💼 AI Career Coach App (Full Stack)
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+Build a powerful AI-driven Career Coach platform using **Next.js**, **Neon Database**, **Tailwind CSS**, **Prisma**, **Inngest**, and **Shadcn UI**. This project integrates **Clerk Authentication** and **Gemini API** to deliver personalized career guidance.
 
-### Make sure to create a `.env` file with following variables -
+## 🔗 Tutorial Video
+[![Watch Tutorial](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)](https://youtu.be/UbXpRv5ApKA)
 
-```
+## 🚀 Tech Stack
+- Next.js 14 (App Router)
+- Neon Database (Serverless PostgreSQL)
+- Tailwind CSS
+- Prisma ORM
+- Inngest (Background Jobs / Serverless Functions)
+- Shadcn UI Components
+- Clerk Authentication
+- Gemini AI API (Google AI)
+
+## 🔑 Environment Variables
+Create a `.env` file in the root with the following:
+```env
 DATABASE_URL=
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -17,4 +29,3 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
-```
